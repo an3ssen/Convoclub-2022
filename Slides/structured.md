@@ -2,21 +2,31 @@
 marp: true
 theme: uncover
 header: Convoclub | 27-10-2022
-footer: Patrick Andriessen | napnam Publishing & Consulting
 paginate: true
 ---
 <style>
-    
+
 </style>
 
 # Structured Writing
-_And how I think it can help 
+_How I think it can help 
 when conversing with an AI_
 
 ---
-# Hi, my name is Patrick
-I dabble in content strategy, information-development management, and technical communication support.
-**20+ years**
+# Hello!
+My name is Patrick Andriessen
+https://linktr.ee/napnampat
+
+---
+![Machine learning by Randall Munroe (XKCD)](https://imgs.xkcd.com/comics/machine_learning.png "Machine learning by Randall Munroe (XKCD)")
+© Randall Munroe (XKCD)
+https://xkcd.com/1838
+
+---
+# Structured writing
+## What is it?
+
+---
 
 ---
 # How to get in touch?
