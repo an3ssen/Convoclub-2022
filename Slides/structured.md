@@ -9,8 +9,8 @@ paginate: true
 </style>
 
 # Structured Writing
-_How I think it can help 
-when conversing with an AI_
+
+How it can help getting _useful answers_ from your AI
 
 ---
 # Hello!
