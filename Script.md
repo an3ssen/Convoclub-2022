@@ -29,16 +29,16 @@ Over the years I have done many different projects and filled many different rol
 * Content Strategist
 * Instructional Designer and Trainer
 
-Although I do still write and create content, my main focus today is on content strategy and consulting. Basically I help teams improve their documentation and content creation processes and to teach them to create content that is Findable, Accessible, Interoperable and Reusable (FAIR).
+Although I do still write and create content, my main focus today is on content strategy and consulting. Basically I help teams improve their documentation and content creation processes and to teach them to create smarter content that is Findable, Accessible, Interoperable and Reusable (FAIR).
 
-### FAIR
+### FAIR 
 In 2016, the ‘FAIR Guiding Principles for scientific data management and stewardship’ were published in Scientific Data. The authors intended to provide guidelines to improve the Findability, Accessibility, Interoperability, and Reuse of digital assets.
 
 These goals do not only apply to scientific data but to content in general and technical content especially.
 
 If you want to learn about the FAIR principles I have included 
 
-One of the tools that I have in my toolbox to make content FAIR is structured writing. And that is what I would like to talk to you about today.
+One of the tools that I have in my toolbox to make content FAIR is structured writing, and that is what I would like to talk to you about today.
 
 
 ## How we usually create content
