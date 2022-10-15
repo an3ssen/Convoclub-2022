@@ -41,11 +41,11 @@ A big problem with content in organizations, both large and small, is that there
 * Marketing creates marketing materials, digital assets (video and graphics) and probably maintains the corporate brand guidelines and website. 
 * And so on.
 
-All these activities produce a staggering amount of data that - because of its unstructured nature - becomes unwieldy very fast. This is not a new problem. It has been a challenge for organizations for decades. Throwing SharePoint at the problem didn't fix it (on the contrary).
+All these activities produce a staggering amount of data that - because of its unstructured nature - becomes unwieldy very fast. This is not a new problem. It has been a challenge for organizations for decades. Surprisingly, throwing SharePoint or similar systems at the problem didn't fix it (on the contrary).
 
-Now we are at a time, where not only hummans produce and use content, but algorithms do as well. Depending on the quality of the data the algorithm can produce answers that either good and useful or very very bad. Depending on the nature of your organization very very bad can mean anything from:
+Now we are at a time, where not only humans produce and use content, but algorithms do as well. Depending on the quality of the data, an algorithm can produce answers that are either good and useful or very, very bad. Depending on the nature of your organization very, very bad can mean anything from:
 
-* An unsuccesful sale on a webshop because of a product not being found (even if it is there).
+* An unsuccessful sale in a web shop because of a product not being found (even if it is there).
 * A fatality caused by a bot serving up the wrong user instructions for a dangerous piece of equipment.
 
 Now, how do we fix this?
