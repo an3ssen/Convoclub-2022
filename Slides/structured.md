@@ -1,16 +1,24 @@
 ---
 marp: true
-theme: uncover
+theme: default
 header: Convoclub | 27-10-2022
-paginate: true
+footer: © 2022 | Patrick Andriessen 
+paginate: false
 ---
 <style>
+
 
 </style>
 
 # Structured Writing
+_How I think it can help 
+when conversing with an AI_
+![bg left:50% w:600 Machine learning by Randall Munroe (XKCD)](https://imgs.xkcd.com/comics/machine_learning.png "Machine learning by Randall Munroe (XKCD)")
+Patrick Andriessen
+Convoclub 27-10-2022
 
-How it can help getting _useful answers_ from your AI
+© Randall Munroe
+https://xkcd.com/1838
 
 ---
 # Hello!
@@ -18,19 +26,23 @@ My name is Patrick Andriessen
 https://linktr.ee/napnampat
 
 ---
-![Machine learning by Randall Munroe (XKCD)](https://imgs.xkcd.com/comics/machine_learning.png "Machine learning by Randall Munroe (XKCD)")
-© Randall Munroe (XKCD)
-https://xkcd.com/1838
+
 
 ---
 # Structured writing
 ## What is it?
 
 ---
+A paragraph
+with two lines.
+
+    indented code
+
+> A block quote.
 
 ---
 # How to get in touch?
-patrick@napnam.nl
-@napnamPat
+By email: patrick@napnam.nl
+On Twitter: @napnamPat
 patrickandriessen.nl
 napnam.nl
