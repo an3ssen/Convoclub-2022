@@ -46,11 +46,22 @@ All these activities produce a staggering amount of data that - because of its u
 Now we are at a time, where not only humans produce and use content, but algorithms do as well. Depending on the quality of the data, an algorithm can produce answers that are either good and useful or very, very bad. Depending on the nature of your organization very, very bad can mean anything from:
 
 * An unsuccessful sale in a web shop because of a product not being found (even if it is there).
-* A fatality caused by a bot serving up the wrong user instructions for a dangerous piece of equipment.
+* A fatal accident caused by a bot serving up the wrong user instructions for a dangerous piece of equipment.
 
-Now, how do we fix this?
+So, how do we fix this? By getting back to the basics, by creating better content.
 
-## Structured content
+## Most humans are poor writers
+In Mark Baker's book: 
+
+_Structured Writing: Rhetoric and Process, he claims that most humans are poor writers. He does not mean that they use poor grammar or spelling. Or that they create sentences that are way to long. Or that they use the passive voice way to often_
+
+_But he means that they do not say the right things, in the right way, for the right audience. They leave out stuff out that needs to be said, they weigh their text down with things that do not need to be said, or they write in a way that is way to hard to understand._
+
+This is my experience as well.
+
+In his book "The Sense of Style", Harvard pshycologist Stephen Pinker, regards the curse of knowledge as single best explanation for bad writing. The curse of knowledge makes it difficult for us to understand what it is like to not understand something we know. Because of this, we take shortcuts, we make assumptions, we are vague, and we just leave stuff out.
+
+It is not that we are lazy or that we just don't care. 
 
 
 ### FAIR 
@@ -84,4 +95,7 @@ Create a word doc, using styles.
 3. Baker, Mark. Structured Writing: Rhetoric and Process. 1st ed. XML Press, 2018. https://xmlpress.net/publications/structured-writing/.
 4. Baker, Mark. “What Is Structured Writing? | TechWhirl.” Blog. TechWhirl. Accessed August 5, 2020. https://techwhirl.com/what-is-structured-writing/.
 5. Hackos, JoAnn T. Information Development: Managing Your Documentation Projects, Portfolio, and People. Indianapolis, IN: Wiley Technology Pub, 2007.
+6. “Curse of Knowledge.” In Wikipedia, October 3, 2022. https://en.wikipedia.org/w/index.php?title=Curse_of_knowledge&oldid=1113907266.
+7. Pinker, Steven. The Sense of Style: The Thinking Person’s Guide to Writing in the 21st Century. London: Penguin Books, 2015.
+
 

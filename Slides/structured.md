@@ -11,8 +11,7 @@ paginate: false
 </style>
 
 # Structured Writing
-_How I think it can help 
-when conversing with an AI_
+_Structured writing: How it can help your AI to get the right answers for your customers_
 ![bg left:50% w:600 Machine learning by Randall Munroe (XKCD)](https://imgs.xkcd.com/comics/machine_learning.png "Machine learning by Randall Munroe (XKCD)")
 Patrick Andriessen
 Convoclub 27-10-2022
