@@ -20,25 +20,44 @@ Convoclub / 27-10-2022
 https://xkcd.com/1838
 
 ---
-# Hello!
-My name is Patrick Andriessen
-https://linktr.ee/napnampat
-
----
 
 # A disappointing chatbot conversation
 
 > **Chatbot**: Hello! How can I help you today?
+
+---
+
 > **Me**: I need to change the battery in my key fob.
+
+---
+
 > **Chatbot**: I understand you need to replace the battery in you key fob. I'd be happy to help you with that. But first I need to ask some questions.
 > **Chatbot**: What is the year, make, and model of your car?
+
+---
+
 > **Me**: 2018 Acme Sedan
+
+---
+
 > **Chatbot**: You said you have a 2018 Acme Sedan. Is that correct?
+
+---
+
 > **Me**: Yes (I am starting to get a little bit annoyed)
-> -> Time goes by <-
+
+---
+
+>Time goes by
+
+---
 > **Chatbot**: Here is the 2018 Acme Sedan Owner's Manual.
 
-_From: The Personalization Paradox_
+---
+
+# Hello!
+My name is Patrick Andriessen
+https://linktr.ee/napnampat
 
 ---
 # Structured writing
