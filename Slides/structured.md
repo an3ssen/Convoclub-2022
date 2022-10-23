@@ -16,12 +16,15 @@ _Structured writing: How it can help your AI to get the right answers for your c
 Patrick Andriessen
 Convoclub / 27-10-2022
 
-© Randall Munroe
+_© Randall Munroe_
 https://xkcd.com/1838
 
 ---
 
 # A disappointing chatbot conversation
+Credit: Val Swisher and Regina Lynn Preciado, The Personalization Paradox
+
+---
 
 > **Chatbot**: Hello! How can I help you today?
 
@@ -32,6 +35,7 @@ https://xkcd.com/1838
 ---
 
 > **Chatbot**: I understand you need to replace the battery in you key fob. I'd be happy to help you with that. But first I need to ask some questions.
+
 > **Chatbot**: What is the year, make, and model of your car?
 
 ---
@@ -52,7 +56,7 @@ https://xkcd.com/1838
 
 ---
 > **Chatbot**: Here is the 2018 Acme Sedan Owner's Manual.
-
+![bg right:50% w:600 Car manuals: Owner's manuals for dummies? - Chicago Tribune)](https://www.trbimg.com/img-537692db/turbine/sc-cons-0515-autocover-owners-manuals-20140515 "Car manuals: Owner's manuals for dummies? - Chicago Tribune")
 ---
 
 # Hello!
