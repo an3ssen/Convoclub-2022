@@ -29,37 +29,51 @@ Over the years I have done many different projects and filled many different rol
 * A Content Strategist
 * An Instructional Designer and Trainer
 
-Although I do still write and create content, I mostly do consultant work today, with a focus on content strategy and content operations.  Basically, I help documentation and content teams improve their processes and tool stacks, and teach them to create smarter content that is Findable, Accessible, Interoperable and Reusable (FAIR).
+Although I do still write and create content, I mostly do consultant work today, with a focus on content strategy and content operations. Basically, I help documentation and content teams improve their processes and tool stacks, and teach them to create smarter content that is Findable, Accessible, Interoperable and Reusable (FAIR).
 
 ## The problem with content
-A big problem with content in organizations, both large and small, is that there is just so much of it. Everybody within the organization generates and shares content. To name a few: 
+The problem with content in organizations, both large and small, is that there is just so much of it. Everybody within the organization generates, uses and shares content. To name a few examples: 
 
-* Sales creates proposals and pricing sheets. 
-* Training is creating training materials and lesson plans. 
+* Sales creates proposals, presentations and pricing sheets. 
+* Training creates training materials and lesson plans. 
 * The technical publications department (if there is one!) creates instructions for use, maintenance and installation instructions, illustrated parts catalogs. 
-* Engineering and R&D create design information, functional descriptions. 
+* Engineering and R&D produce information that is related to the design of the product, like technical drawings and functional descriptions. 
 * Marketing creates marketing materials, digital assets (video and graphics) and probably maintains the corporate brand guidelines and website. 
 * And so on.
 
-All these activities produce a staggering amount of data that - because of its unstructured nature - becomes unwieldy very fast. This is not a new problem. It has been a challenge for organizations for decades. Surprisingly, throwing SharePoint or similar systems at the problem didn't fix it (on the contrary).
+All these activities produce a staggering amount of data that - because of its unstructured nature - becomes unwieldy very fast. This is not a new problem. It has been a challenge for organizations for decades. Because so many different people are producing information, finding the information that is correct, valid, and useful is a challenge. 
 
-Now we are at a time, where not only humans produce and use content, but algorithms do as well. Depending on the quality of the data, an algorithm can produce answers that are either good and useful or very, very bad. Depending on the nature of your organization very, very bad can mean anything from:
+Simply, throwing SharePoint or a similar system at the problem didn't fix it either, often because the content and documents in the system are left unattended and unmanaged. After a while you basically have the same problem again that you started out with. A large pile of information, locked into documents, that no one can find and use.
 
-* An unsuccessful sale in a web shop because of a product not being found (even if it is there).
-* A fatal accident caused by a bot serving up the wrong user instructions for a dangerous piece of equipment.
+But this is not a story about content management, it is about content quality.
 
-So, how do we fix this? By getting back to the basics, by creating better content.
+Now we are at a time, where not only humans produce and use content, but algorithms do as well. Depending on the findability and quality of the data, an algorithm - like a human - can produce answers to questions, that are either good or pretty bad. Good answers help someone succeed in what they are trying to accomplish. However, depending on the nature of your organization, a pretty bad answer can result in anything from:
+
+* A missed sale.
+* A call to an already overstretched customer support department.
+* Someone getting hurt or worse.
+
+I think we can all agree that we want our algorithms, like our humans, to give us good answers.
+
+So, what do we need to do? We need to create better content! 
+
+Let's start with the basics.
 
 ## Most humans are poor writers
-In Mark Baker's book: 
 
-_Structured Writing: Rhetoric and Process, he claims that most humans are poor writers. He does not mean that they use poor grammar or spelling. Or that they create sentences that are way to long. Or that they use the passive voice way to often_
+In his book:
 
-_But he means that they do not say the right things, in the right way, for the right audience. They leave out stuff out that needs to be said, they weigh their text down with things that do not need to be said, or they write in a way that is way to hard to understand._
+_Structured Writing: Rhetoric and Process, Mark Baker claims that most humans are poor writers. With 'poor writers' he does not mean that they use poor grammar or spelling. Or that they create sentences that are way to long. Or that they use the passive voice way to often_
 
-This is my experience as well.
+_He means that they do not say the right things, in the right way, for the right audience. They leave stuff out that needs to be said, they weigh their text down with things that do not need to be said, or they write in a way that is way to hard to understand._
 
-In his book "The Sense of Style", Harvard pshycologist Stephen Pinker, regards the curse of knowledge as single best explanation for bad writing. The curse of knowledge makes it difficult for us to understand what it is like to not understand something we know. Because of this, we take shortcuts, we make assumptions, we are vague, and we just leave stuff out.
+This is my experience as well. In my work as a technical communicator I often need information that is created by subject matter experts. That information can be in any form. A technical drawing, a list, a comprehensive document. However, it is rarely the case that the subject matter expert has documented the answer to one of my questions, like:
+
+* How does this system work?
+* How does the operator perform X-Y-Z?
+* How do you install this piece of kit?
+
+In his book "The Sense of Style", Harvard pshycologist Stephen Pinker, regards the curse of knowledge as the single best explanation for bad writing. The curse of knowledge makes it difficult for us to understand what it is like to not understand something we know. Because of this, we take shortcuts, we make assumptions, we are vague, and we just leave stuff out.
 
 It is not that we are lazy or that we just don't care. 
 
@@ -97,5 +111,6 @@ Create a word doc, using styles.
 5. Hackos, JoAnn T. Information Development: Managing Your Documentation Projects, Portfolio, and People. Indianapolis, IN: Wiley Technology Pub, 2007.
 6. “Curse of Knowledge.” In Wikipedia, October 3, 2022. https://en.wikipedia.org/w/index.php?title=Curse_of_knowledge&oldid=1113907266.
 7. Pinker, Steven. The Sense of Style: The Thinking Person’s Guide to Writing in the 21st Century. London: Penguin Books, 2015.
+8. Swisher, Val, and Regina Lynn Preciado. The Personalization Paradox: Why Companies Fail (and How To Succeed) at Delivering Personalized Experiences at Scale. XML Press, 2021.
 
 
