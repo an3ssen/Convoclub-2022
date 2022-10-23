@@ -6,6 +6,8 @@ Presentation: Convoclub, 27th of October 2022
 
 # A disappointing chatbot conversation
 
+Before we start I want to share with you a conversation I had with the chatbot on the website of the manufacturer of my car.
+
 > **Chatbot**: Hello! How can I help you today?
 
 > **Me**: I need to change the battery in my key fob.
@@ -29,11 +31,14 @@ _From: The Personalization Paradox [8]_
 ## Introduction
 
 Hello everyone, my name is Patrick Andriessen.
-Before we start, let me tell you a little bit about myself. And let me start with a small disclaimer. I do not have a background in conversational design. I also do not develop chatbots or have any recent formal training when it comes to AI.
+
+I of course did not have this conversation with the Acme chatbot. It comes from the excellent book: The Personalization Paradox, by Val Swisher and Regina Lynn Preciado. I have however experienced similar conversations with the new chatbot at my current client. 
+
+But, before we start, let me tell you a little bit about myself. And let me start with a small disclaimer. I do not have a background in conversational design. I also do not develop chatbots or have any recent formal training when it comes to AI.
 
 I do have a formal education in information studies and information management, where I specialized in documentary information systems, focussing on storage and retrieval techniques.
 
-Moer the most part of my professional career however, I have worked as a technical communicator.
+For the most part of my professional career however, I have worked as a technical communicator.
 
 Technical communication is a very broad field and exhibits one or more of the following characteristics:
 
@@ -53,7 +58,7 @@ Over the years I have done many different projects and filled many different rol
 
 Although I do still write and create content, I mostly do consultant work today, with a focus on content strategy and content operations. Basically, I help documentation and content teams improve their processes and tool stacks, and teach them to create smarter content that is Findable, Accessible, Interoperable and Reusable (FAIR).
 
-Content. That is where this story begins.
+Quality content. That is where it - in this case - all begins. At least, that is how I like to look at it.
 
 ## The problem with content
 The problem with content in organizations, both large and small, is that there is just so much of it. Everybody within the organization generates, uses and shares content. To name a few examples: 
@@ -69,15 +74,15 @@ All these activities produce a staggering amount of data that - because of its u
 
 Simply, throwing SharePoint or a similar system at the problem didn't fix it either, often because the content and documents in the system are left unattended and unmanaged. After a while you basically have the same problem again that you started out with. A large pile of information, locked into documents, that no one can find and use.
 
-But this is not a story about content management, it is about content quality.
+But this is not a talk about content management, it is about content quality.
 
-Now we are at a time, where not only humans produce and use content, but algorithms do as well. Depending on the findability and quality of the data, an algorithm - like a human - can produce answers to questions, that are either good or pretty bad. Good answers help someone succeed in what they are trying to accomplish. However, depending on the nature of your organization, a pretty bad answer can result in anything from:
+Depending on the findability and quality of your data, an algorithm - like a human - can produce answers to questions. For the sake of simplicity, let's say that those answers can be either good or bad. Good answers help someone succeed in what they are trying to accomplish. However, depending on the nature of your organization, a bad answer can result in anything from:
 
 * A missed sale.
 * A call to an already overstretched customer support department.
 * Someone getting hurt or worse.
 
-I think we can all agree that we want our algorithms, like our humans, to give us good answers.
+I think it is safe to say that we want our algorithms, like our humans, to give us good answers.
 
 So, what do we need to do? We need to create better content! 
 
@@ -91,13 +96,13 @@ _Structured Writing: Rhetoric and Process, Mark Baker claims that most humans ar
 
 _He means that they do not say the right things, in the right way, for the right audience. They leave stuff out that needs to be said, they weigh their text down with things that do not need to be said, or they write in a way that is way to hard to understand._
 
-This is my experience as well. In my work as a technical communicator I often need information that is created by subject matter experts. That information can be in any form. A technical drawing, a list, a comprehensive document. However, it is rarely the case that the subject matter expert (even though they think they did) has documented the answer to one of my questions, like:
+This is my experience as well. In my work as a technical communicator, I often need information that is created by subject matter experts. That information can be in any form. A technical drawing, a list, a comprehensive document. However, it is rarely the case that the subject matter expert (even though they think they did) has documented the answer to one of my questions, like:
 
 * How does this system work?
 * How does the operator perform X-Y-Z?
 * How do you install this piece of kit?
 
-In his book "The Sense of Style", Harvard pshycologist Stephen Pinker, regards the curse of knowledge as the single best explanation for bad writing. The curse of knowledge makes it difficult for us to understand what it is like to not understand something we know. Because of this, we take shortcuts, we make assumptions, we are vague, and we just leave stuff out.
+In his book "The Sense of Style", Harvard psychologist Stephen Pinker, regards the curse of knowledge as the single best explanation for bad writing. The curse of knowledge makes it difficult for us to understand what it is like to not understand something we know. Because of this, we take shortcuts, we make assumptions, we are vague, and we just leave stuff out.
 
 It is not that we are lazy or that we just don't care. We automatically assume that the person we are communicating with shares a huge collection of experiences, ideas, and vocabulary in common with us. And if those assumptions are correct, than communicating is very efficient.
 
