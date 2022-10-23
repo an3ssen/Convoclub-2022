@@ -4,14 +4,36 @@ Presentation: Convoclub, 27th of October 2022
 
 ![Machine learning by Randall Munroe (XKCD)](https://imgs.xkcd.com/comics/machine_learning.png "Machine learning by Randall Munroe (XKCD)")
 
+# A disappointing chatbot conversation
+
+> **Chatbot**: Hello! How can I help you today?
+
+> **Me**: I need to change the battery in my key fob.
+
+> **Chatbot**: I understand you need to replace the battery in you key fob. I'd be happy to help you with that. But first I need to ask some questions.
+
+> **Chatbot**: What is the year, make, and model of your car?
+
+> **Me**: 2018 Acme Sedan
+
+> **Chatbot**: You said you have a 2018 Acme Sedan. Is that correct?
+
+> **Me**: Yes (I am starting to get a little bit annoyed)
+
+> -> Time goes by <-
+
+> **Chatbot**: Here is the 2018 Acme Sedan Owner's Manual.
+
+_From: The Personalization Paradox [8]_
+
 ## Introduction
 
 Hello everyone, my name is Patrick Andriessen.
-Before we start, let me tell you a little bit about myself. And let me start with a small disclaimer. I do not have a background in conversational design. I also do not develop chatbots or have any formal training when it comes to AI.
+Before we start, let me tell you a little bit about myself. And let me start with a small disclaimer. I do not have a background in conversational design. I also do not develop chatbots or have any recent formal training when it comes to AI.
 
-I do have a formal education in information studies and information management, and specialized in documentary information systems, focussing on storage and retrieval techniques.
+I do have a formal education in information studies and information management, where I specialized in documentary information systems, focussing on storage and retrieval techniques.
 
-The last twenty years, however, I have been working as a technical communicator.
+Moer the most part of my professional career however, I have worked as a technical communicator.
 
 Technical communication is a very broad field and exhibits one or more of the following characteristics:
 
@@ -30,6 +52,8 @@ Over the years I have done many different projects and filled many different rol
 * An Instructional Designer and Trainer
 
 Although I do still write and create content, I mostly do consultant work today, with a focus on content strategy and content operations. Basically, I help documentation and content teams improve their processes and tool stacks, and teach them to create smarter content that is Findable, Accessible, Interoperable and Reusable (FAIR).
+
+Content. That is where this story begins.
 
 ## The problem with content
 The problem with content in organizations, both large and small, is that there is just so much of it. Everybody within the organization generates, uses and shares content. To name a few examples: 
@@ -67,7 +91,7 @@ _Structured Writing: Rhetoric and Process, Mark Baker claims that most humans ar
 
 _He means that they do not say the right things, in the right way, for the right audience. They leave stuff out that needs to be said, they weigh their text down with things that do not need to be said, or they write in a way that is way to hard to understand._
 
-This is my experience as well. In my work as a technical communicator I often need information that is created by subject matter experts. That information can be in any form. A technical drawing, a list, a comprehensive document. However, it is rarely the case that the subject matter expert has documented the answer to one of my questions, like:
+This is my experience as well. In my work as a technical communicator I often need information that is created by subject matter experts. That information can be in any form. A technical drawing, a list, a comprehensive document. However, it is rarely the case that the subject matter expert (even though they think they did) has documented the answer to one of my questions, like:
 
 * How does this system work?
 * How does the operator perform X-Y-Z?
@@ -75,7 +99,9 @@ This is my experience as well. In my work as a technical communicator I often ne
 
 In his book "The Sense of Style", Harvard pshycologist Stephen Pinker, regards the curse of knowledge as the single best explanation for bad writing. The curse of knowledge makes it difficult for us to understand what it is like to not understand something we know. Because of this, we take shortcuts, we make assumptions, we are vague, and we just leave stuff out.
 
-It is not that we are lazy or that we just don't care. 
+It is not that we are lazy or that we just don't care. We automatically assume that the person we are communicating with shares a huge collection of experiences, ideas, and vocabulary in common with us. And if those assumptions are correct, than communicating is very efficient.
+
+Alas, what is obvious to one person, can be obscure to another. The curse of knowledge is that as soon as something becomes obvious to us, we can no longer imagine it being obscure to someone else. It is why much communications between humans fail.
 
 
 ### FAIR 
