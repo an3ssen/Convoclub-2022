@@ -19,5 +19,7 @@ We are going to talk about:
 
 I'm excited for it and I hope to you see you all there. Bye bye!
 
-#The screencast
+# The screencast
+You can watch the screencast here:
+
 https://www.youtube.com/watch?v=r9jydoG_Gck
