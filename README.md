@@ -19,8 +19,5 @@ We are going to talk about:
 
 I'm excited for it and I hope to you see you all there. Bye bye!
 
-# How can you help?
-I would like this workshop to provide as much value to you as possible. I believe that your involvement will increase that value exponentially. This is how you can help:
-
-* Explore the materials offered and write up issues
-* Join us on [Slack]{https://madusers.slack.com) and introduce yourself, please ask general questions here and get in touch with your fellow workshop participants.
+#The screencast
+https://www.youtube.com/watch?v=r9jydoG_Gck
