@@ -5,7 +5,7 @@ I did a screencast on how structured writing can improve our interactions and co
 
 # Promo
 Hello everyone, my name is Patrick Andriessen.
-I work as a content strategist and technical communication consultant at napnanm Publishing & Consulting.
+I work as a content strategist and technical communication consultant at napnam Publishing & Consulting.
 Join me at Convoclub on the 27th of October for my talk: 
 
 *Structured writing: How it can help your AI to get the right answers for your customers.*
